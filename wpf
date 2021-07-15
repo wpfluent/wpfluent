@@ -3,4 +3,4 @@
 
 // require __DIR__.'/vendor/autoload.php';
 
-exec("composer run-script composer-install");
+// exec("composer run-script composer-install");
